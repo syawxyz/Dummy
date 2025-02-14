@@ -1,0 +1,3 @@
+../Core/Src/canbus.c:26:6:CANFilterInit	48	static
+../Core/Src/canbus.c:88:6:CAN1_Tx	24	static
+../Core/Src/canbus.c:106:6:CAN1_Req	16	static
